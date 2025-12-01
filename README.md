@@ -61,7 +61,7 @@ src/
 
 1. 克隆项目到本地：
    ```
-   git clone <项目地址>
+   git clone https://github.com/LYcoding0/Calculato_App.git
    ```
 
 2. 安装依赖：
